@@ -30,3 +30,6 @@ Follow the on-screen instructions to play the game!
 📁 MathQuizGame  
 ├── 📄 main.cpp   # The main game logic  
 ├── 📄 README.md  # Project documentation  
+---
+### 🏷️ Tags  
+C++, Math, Console Game
