@@ -58,7 +58,6 @@ string OpSymbol(enQsOperation UserOp)
 {
 	string OpSympols[] = { " + ", " - ", " / " , " * " };
 	return OpSympols[UserOp - 1];
-
 }
 
 int GenerateQsWithRange(enQsOperation Operation, int from, int to)
@@ -79,7 +78,6 @@ int GenerateQsWithRange(enQsOperation Operation, int from, int to)
 		return num1 / num2;
 	case Multiplication:
 		return num1 * num2;
-
 	}
 
 	// defualt 
@@ -159,6 +157,7 @@ void MathGame()
 
 int main()
 {
+	// the seed of the random generator
 	srand((unsigned)time(NULL));
 	do
 	{
@@ -168,7 +167,6 @@ int main()
 		MyGameInfo.QsLevel = (enQsLevel)ReadNumberInRange("Enter Qs Level : ", 1, 4); cout << endl;
 		ShowOperation();
 		MyGameInfo.Op = (enQsOperation)ReadNumberInRange("Enter Operation Type : ", 1, 4);
-
 
 		MathGame();
 		ShowFinalResults(MyGameInfo);
