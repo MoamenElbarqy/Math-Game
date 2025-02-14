@@ -1,6 +1,6 @@
-# 📌 Math Quiz Game 🎮  
+# Math Quiz Game 🎮  
 
-🚀 **Math Quiz Game** is a console-based C++ program that generates random math questions based on user preferences. The game allows players to choose the number of questions, difficulty level, and arithmetic operation type while tracking their performance.  
+**Math Quiz Game** is a console-based C++ program that generates random math questions based on user preferences. The game allows players to choose the number of questions, difficulty level, and arithmetic operation type while tracking their performance.  
 
 ## 📷 Example Output  
 Enter the number of Qs you want (1: 10) : 5
@@ -18,18 +18,9 @@ Question [1/5]
 - ✅ Tracks correct and incorrect answers  
 - ✅ Option to play again after completing a session  
 
-## 🛠 How to Run  
-Compile the program using any C++ compiler, such as g++:  
-g++ main.cpp -o MathQuizGame
-
-Run the executable:
-./MathQuizGame
-Follow the on-screen instructions to play the game!
-
-📂 File Structure
-📁 MathQuizGame  
-├── 📄 main.cpp   # The main game logic  
-├── 📄 README.md  # Project documentation  
+📂 File Structure 
+ 📄 main.cpp
+ 📄 README.md
 ---
 ### 🏷️ Tags  
 C++, Math, Console Game
