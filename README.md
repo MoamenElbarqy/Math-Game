@@ -4,10 +4,13 @@
 
 ## 📷 Example Output  
 Enter the number of Qs you want (1: 10) : 5
+
 Enter Qs Level : 2 (Medium)
+
 Enter Operation Type : 1 (Addition)
 
 Question [1/5]
+
 23 + 17 = ?
 
 
