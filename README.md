@@ -22,8 +22,11 @@ Question [1/5]
 - ✅ Option to play again after completing a session  
 
 📂 File Structure 
+
  📄 main.cpp
+ 
  📄 README.md
+ 
 ---
 ### 🏷️ Tags  
 C++, Math, Console Game
