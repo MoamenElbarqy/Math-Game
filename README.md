@@ -20,12 +20,6 @@ Question [1/5]
 - ✅ Includes 4 operations (Addition, Subtraction, Division, Multiplication)  
 - ✅ Tracks correct and incorrect answers  
 - ✅ Option to play again after completing a session  
-
-📂 File Structure 
-
- 📄 main.cpp
- 
- 📄 README.md
  
 ---
 ### 🏷️ Tags  
